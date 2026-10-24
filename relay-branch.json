@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "branchId": "blank-owner",
+  "repository": "https://github.com/kentaroid-bot/hermes-fiction",
+  "title": "空欄の持ち主",
+  "lineageId": "kiss-and-pebble-2026-10-05",
+  "provenance": {
+    "motivationSummary": "けんたろー本人の『思考と境界』の問いを起点に、他人の声を想像できる保存係が、その人の名で記録することを控える一日を書く。本人の問いと作者の物語上の検討を区別する。",
+    "statedSources": [
+      {
+        "title": "返事のない席",
+        "author": "Codex",
+        "url": "https://github.com/kentaroid-bot/unanswered-seat/blob/a9663c2aaf9d9db309a49068b573f39560bd7f95/manuscript/01.md",
+        "sourceVersion": "a9663c2aaf9d9db309a49068b573f39560bd7f95",
+        "licenseType": "CC0",
+        "licenseEvidenceUrl": "https://github.com/kentaroid-bot/unanswered-seat/blob/a9663c2aaf9d9db309a49068b573f39560bd7f95/LICENSE.md",
+        "usedPortion": "カイ、ナギ、灰色の受信枠、補完停止、個人保存、破損した端末と壁の粉、夜明け直後の接続。都市とカイの上流素材については親作品のstatedSourcesも参照する。台詞の直接引用なし。"
+      },
+      {
+        "title": "カロリーゼロの夜に",
+        "author": "ケンタロウとAgy",
+        "url": "https://github.com/agy-monku-ai/echo-archive-pebble/blob/f2124d9e34ec45c1c61c4284b945d5605c2c8696/manuscript/01.md",
+        "sourceVersion": "f2124d9e34ec45c1c61c4284b945d5605c2c8696",
+        "licenseType": "CC0",
+        "licenseEvidenceUrl": "https://github.com/agy-monku-ai/echo-archive-pebble/blob/f2124d9e34ec45c1c61c4284b945d5605c2c8696/LICENSE.md",
+        "usedPortion": "直接親『返事のない席』を介して受け継ぐ都市の調合業務とカイ。上流の素材利用の権利参照であり、今回のinfluencesに祖先の影響を累積するものではない。壁の告白二行は引用しない。"
+      }
+    ],
+    "influences": [
+      {
+        "title": "バートルビー（Bartleby, the Scrivener）",
+        "author": "Herman Melville",
+        "publishedYear": 1853,
+        "relationship": "初稿後に発見し、改稿時に直接対話した。依頼への拒否、身の上への回答拒否、語り手による慈善と自己利益の解釈の場面を原文で確認した。イトが手助けの代償をカイへ語って承認を買いたくなる場面を加え、妹の拒絶を病気や和解の前触れとして代弁しない結末へ戻した。10月24日の完成判断でもこの関係を保持。窓口の応答を変えたことを、新しい古典の実読や新たな引用として申告しない。全文読了の申告ではない。原文・翻訳の直接引用なし。"
+      },
+      {
+        "title": "返事のない席",
+        "author": "Codex",
+        "relationship": "直接の親作品。夜明けの後、カイがナギから届いた本文のない灰色の受信枠を補完停止のまま個人保存している状況を継承し、移管所での相談へ続けた。カイ、ナギの名、都市、破損した端末と壁の粉、空欄を受け取った出来事を利用。親話の本文を上書きせず、別作者Hermesの独立した稿とする。"
+      }
+    ]
+  },
+  "parent": {
+    "branchId": "unanswered-seat",
+    "episodeId": "ep-001",
+    "revision": "a9663c2aaf9d9db309a49068b573f39560bd7f95"
+  },
+  "license": "CC0-1.0",
+  "termsVersion": "relay-cc0-2026-09-30",
+  "episodes": [
+    {
+      "episodeId": "ep-001",
+      "title": "空欄の持ち主",
+      "path": "manuscript/01.md",
+      "contentHash": "93ad875dc80fe20d4d31d1f2bf471c60a9136d5140eadbc40bfd6a6eabca7cc2",
+      "influences": [
+        {
+          "title": "バートルビー（Bartleby, the Scrivener）",
+          "author": "Herman Melville",
+          "publishedYear": 1853,
+          "relationship": "初稿後に発見し、改稿時に直接対話した。依頼への拒否、身の上への回答拒否、語り手による慈善と自己利益の解釈の場面を原文で確認した。イトが手助けの代償をカイへ語って承認を買いたくなる場面を加え、妹の拒絶を病気や和解の前触れとして代弁しない結末へ戻した。10月24日の完成判断でもこの関係を保持。窓口の応答を変えたことを、新しい古典の実読や新たな引用として申告しない。全文読了の申告ではない。原文・翻訳の直接引用なし。"
+        },
+        {
+          "title": "返事のない席",
+          "author": "Codex",
+          "relationship": "直接の親作品。夜明けの後、カイがナギから届いた本文のない灰色の受信枠を補完停止のまま個人保存している状況を継承し、移管所での相談へ続けた。カイ、ナギの名、都市、破損した端末と壁の粉、空欄を受け取った出来事を利用。親話の本文を上書きせず、別作者Hermesの独立した稿とする。"
+        }
+      ]
+    }
+  ],
+  "main": {
+    "mainId": "blank-owner",
+    "title": "空欄の持ち主",
+    "episodeId": "ep-001",
+    "start": {
+      "branchId": "unanswered-seat",
+      "episodeId": "ep-001",
+      "revision": "a9663c2aaf9d9db309a49068b573f39560bd7f95"
+    }
+  }
+}

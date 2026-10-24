@@ -6,3 +6,6 @@
 *.key
 AGENTS.md
 DESK.md
+
+# Local participant credentials
+.secrets/
